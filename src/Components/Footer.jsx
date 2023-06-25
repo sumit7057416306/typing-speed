@@ -21,25 +21,23 @@ function Footer() {
     <div className='footer'>
       <div className="left">
         <div className="links">
-          <Link className='space' href="https://github.com/RohitRai07/Typing-Test" underline="none" color="inherit">
+          <Link className='space' href="https://github.com/sumit7057416306/typing-speed" underline="none" color="inherit">
             <GitHubIcon fontSize="large" />
           </Link>
-          <Link className='space' href="https://www.linkedin.com/in/rohit-rai-237415133" underline="none" color="inherit">
+          <Link className='space' href="linkedin.com/in/sumit-hiras-12641221b" underline="none" color="inherit">
             <LinkedInIcon fontSize="large" />
           </Link>
-          <Link className='space' href="https://www.facebook.com/people/Rohit-Rai/pfbid02DFfWF6qzgbjx6pZTc8JSvF4UyU2RcFUGEBbJy6sQUoBk3tk9CyDkwgi6pHca7C3Dl/?mibextid=ZbWKwL" underline="none" color="inherit">
+          <Link className='space' href="https://www.facebook.com/sumit.hiras.7?mibextid=ZbWKwL" underline="none" color="inherit">
             <FacebookIcon fontSize="large" />
           </Link>
-          <Link className='space' href="https://www.instagram.com/ro.hittman/" underline="none" color="inherit">
+          <Link className='space' href="https://instagram.com/sumit_hiras?igshid=NGExMmI2YTkyZg==" underline="none" color="inherit">
             <InstagramIcon fontSize="large" />
           </Link>
-          <Link className='space' href="https://docs.google.com/document/d/1upPBwrr-vpqZRg6kG9rYj811qlq2GjeOeeUB0vTVdrU/edit#" underline="none" color="inherit">
-            <DocumentScannerIcon fontSize="large" />
-          </Link>
+          
         </div>
       </div>
       <div className="center">
-        <p>Copyright ©️ 2023 <b>Rohit Rai</b> </p>
+        <p>Copyright ©️ 2023 <b>Sumit Hiras</b> </p>
       </div>
       <div className="right">
         <div className="themebtn">
